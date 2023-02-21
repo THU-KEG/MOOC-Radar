@@ -1,6 +1,6 @@
 # MoocRadar
 
-MoocRadar is maintained by the Knowledge Engineering Group of Tsinghua University with the assistance of Insititute of Education, Tsinghua Univerisity. This repository consists of 2,513 exercises, 14,226 students and over 12 million behavioral data and 5,600 fine-grained concepts, for supporting the developments of cognitive student modeling in MOOCs.
+MoocRadar is maintained by the Knowledge Engineering Group of Tsinghua University with the assistance of Insititute of Education, Tsinghua Univerisity. This repository consists of 2,513 exercises, 14,226 students and over 12 million behavioral data and 5,600 fine-grained concepts, for supporting the developments of cognitive student modeling in MOOCs. The raw data is from XuetangX (https://www.xuetangx.com/).
 
 We summarize the features of MoocRadar as:
 
@@ -12,13 +12,14 @@ We are still going on the extension and annotation of this repository.
 
 Based on MoocRadar, developers can attempt to build a more informative profile for each student, as introduced in our paper.
 
-![task](https://cloud.tsinghua.edu.cn/f/ca31a00f0131409089fe/?dl=1)
+![task](https://cloud.tsinghua.edu.cn/f/75a1dcfb41a84b7aaeb0/?dl=1)
 
 ## News !! 
 
 * Exercise amount is extended to 9,384 !!
 
 * Our paper is submitted to SIGIR resource track !!
+* Update the annotation guidance of fine-grained concepts and cognitive labels.
 
 ## Data Access
 
