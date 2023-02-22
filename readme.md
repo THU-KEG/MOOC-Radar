@@ -45,8 +45,8 @@ We provide several basic model's demo, including:
   * [DKVMN](./baselines/scripts/DKVMN.sh)
 
 * Cognitive Diagnosis:
-  * [GDIRT](./baselines/scripts/GDIRT.sh), 
-  * [MIRT](./baselines/scripts/MIRT.sh), 
+  * [GDIRT](./baselines/scripts/GDIRT.sh)
+  * [MIRT](./baselines/scripts/MIRT.sh)
   * [NCDM](./baselines/scripts/NCDM.sh)
 
 We also provide the performance of the improvement of DKVMN and NCDM with side information (i.e. cognitive and video).
