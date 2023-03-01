@@ -107,8 +107,10 @@ The distribution of students' exercise behaviors, accurate rates and concept-lin
 
 ## Reference
 
+```bibtex
  @article{MOOCRadar,
-    title={MoocRadar: A Fine-grained and Multi-aspect Knowledge Repository for Improving Cognitive Student Modeling in MOOCs},
-    author={Jifan Yu, Mengying Lu, Qingyang Zhong, Zijun Yao, Shangqing Tu, Zhengshan Liao, Xiaoya Li, Manli Li, Lei Hou, Haitao Zheng, Juanzi Li, Jie Tang},
-    year={ 2023 }
-    }
+  title={MoocRadar: A Fine-grained and Multi-aspect Knowledge Repository for Improving Cognitive Student Modeling in MOOCs},
+  author={Jifan Yu, Mengying Lu, Qingyang Zhong, Zijun Yao, Shangqing Tu, Zhengshan Liao, Xiaoya Li, Manli Li, Lei Hou, Haitao Zheng, Juanzi Li, Jie Tang},
+  year={ 2023 }
+ }
+ ```
