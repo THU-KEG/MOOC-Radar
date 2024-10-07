@@ -27,11 +27,8 @@ There are multi-level data to be used, including:
 
 | Dataset          | Description                                           | Download Link |
 | ---------------- | ----------------------------------------------------- | ------------- |
-| MoocRadar_Raw    | The raw data from MOOCCubeX (after data filtering).   |     [Raw link](https://cloud.tsinghua.edu.cn/d/adc2d43d154944ffb75f/)          |
-| MoocRadar_Coarse | Exercises and behaviors with coarse-grained concepts. |      [Coarse link](https://cloud.tsinghua.edu.cn/d/5443ee05152344c79419/)         |
-| MoocRadar_Middle | Exercises and behaviors with middle-grained concepts. |     [Middle link](https://cloud.tsinghua.edu.cn/d/adf72390e3234143aec0/)          |
-| MoocRadar_Fine   | Exercises and behaviors with fine-grained concepts.   |      [Fine link](https://cloud.tsinghua.edu.cn/d/308c17eeb99e4ebf98e2/)         |
-| External_Data    | Other additional data of MoocRadar.                   |     [External link](https://cloud.tsinghua.edu.cn/d/000fddd19a434765872a/)          |
+| MoocRadar_Raw    | All data of MOOC-radar.   |     [Raw link](https://bhpan.buaa.edu.cn/link/AAE5A458AFE444474EBEC928F98986E5B8)          |
+
 
 ## Reproduction Model
 
